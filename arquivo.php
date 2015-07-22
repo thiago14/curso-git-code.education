@@ -1,1 +1,2 @@
-<?php echo "Teste de arquivo php"; ?>
+<?php echo 'Alterando o arquivo pelo GIT Bash';?>
+
